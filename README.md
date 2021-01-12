@@ -16,3 +16,4 @@ There is a performance page on the secondary menu which allows quick access to s
 I used an ESP32 for this implementation but in hindsight I should have used an AVR - Mega1284 or something with a lot of pins and at least 2 serial ports. ESP32 Arduino is not very stable and I encountered a number of compiler bugs and stability issues. 
 I used ESP32 Arduino V1.0 because the later versions are even less stable.
 
+
